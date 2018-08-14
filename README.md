@@ -18,9 +18,6 @@ description: Rules and Regulations
 
 并且开源:  https://github.com/FIRHQ/RaR
 
-* 每一位同事都可以提出意见, 方式为[提交issue](https://github.com/FIRHQ/HQ/issues/new), 这是促进公司制度迭代和完善的最有效途径
+* 每一位同事都可以提出意见, 方式为[提交issue](https://github.com/FIRHQ/RaR/issues/new), 这是促进公司制度迭代和完善的最有效途径
 * 每一位同事都可以修改, 但是需要发Pull Request经过CEO审核
-* 人力资源部 负责维护更新及监督执行    
-
-
-
+* 人力资源部 负责维护更新及监督执行
