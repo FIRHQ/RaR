@@ -12,11 +12,13 @@ description: Rules and Regulations
 
 
 
-## 查看 & 修改
+## 查看
 
 正式版本查看地址: http://RaR.firhq.com
 
 并且开源:  https://github.com/FIRHQ/RaR
+
+## 修改
 
 * 每一位同事都可以提出意见, 方式为[提交issue](https://github.com/FIRHQ/RaR/issues/new), 这是促进公司制度迭代和完善的最有效途径
 * 每一位同事都可以修改, 但是需要发Pull Request经过CEO审核
