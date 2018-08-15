@@ -8,7 +8,7 @@ description: Rules and Regulations
 
 * 自由与规范，计划与变化，兴趣与责任
 * 所有制度的制定与修改应以保证公司正常运营和提升整体效率为目的
-* `Make Rules. Follow Rules. Break Rules` 是我们的倡导的公司文化
+* 制度需要一直被迭代完善
 
 
 
