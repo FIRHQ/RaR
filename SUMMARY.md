@@ -1,13 +1,13 @@
 # Table of contents
 
 * [FIRHQ](README.md)
-* [TODO:协作工具](xie-zuo-gong-ju.md)
+* [沟通 协作](xie-zuo-gong-ju.md)
 * [安全保密制度](sec.md)
-* [TODO:财务制度](todo-cai-wu-zhi-du/README.md)
-  * [报销](todo-cai-wu-zhi-du/bao-xiao.md)
 * [人事制度](ren-shi-zhi-du/README.md)
-  * [薪酬](ren-shi-zhi-du/xin-chou.md)
-  * [请假](ren-shi-zhi-du/qing-jia.md)
+  * [入职 离职](ren-shi-zhi-du/ru-zhi-li-zhi.md)
+  * [薪酬 福利 奖励](ren-shi-zhi-du/xin-chou.md)
+  * [处罚](ren-shi-zhi-du/chu-fa.md)
+  * [考勤制度](ren-shi-zhi-du/qing-jia.md)
 * [开发规范](kai-fa-gui-fan/README.md)
   * [代码规范](kai-fa-gui-fan/dai-ma-gui-fan.md)
   * [使用GitHub](kai-fa-gui-fan/shi-yong-github.md)
