@@ -1,6 +1,6 @@
 # Table of contents
 
-* [FIRHQ](README.md)
+* [FIRHQ 员工手册](README.md)
 * [沟通 协作](xie-zuo-gong-ju.md)
 * [安全保密制度](sec.md)
 * [人事制度](ren-shi-zhi-du/README.md)
