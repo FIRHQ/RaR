@@ -2,7 +2,7 @@
 
 * [FIRHQ](README.md)
 * [TODO:协作工具](xie-zuo-gong-ju.md)
-* [TODO:安全保密制度](sec.md)
+* [安全保密制度](sec.md)
 * [TODO:财务制度](todo-cai-wu-zhi-du/README.md)
   * [报销](todo-cai-wu-zhi-du/bao-xiao.md)
 * [人事制度](ren-shi-zhi-du/README.md)
