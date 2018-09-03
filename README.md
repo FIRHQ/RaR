@@ -1,18 +1,15 @@
----
-description: Rules and Regulations
----
-
 # FIRHQ 员工手册
 
 ## 总则
 
 * 自由与规范，计划与变化，兴趣与责任
 * 所有制度的制定与修改应以保证公司正常运营和提升整体效率为目的
+* 没有废话和套话
 * 制度需要一直被迭代完善
 
 ## 查看
 
-正式版本查看地址: [http://RaR.firhq.com](http://RaR.firhq.com)
+正式版本查看地址: [https://RaR.firhq.com](https://RaR.firhq.com)
 
 并且开源: [https://github.com/FIRHQ/RaR](https://github.com/FIRHQ/RaR)
 
@@ -22,3 +19,6 @@ description: Rules and Regulations
 * 每一位同事都可以修改, 但是需要发Pull Request经过CEO审核
 * 人力资源部 负责维护更新及监督执行
 
+> #### 技术细节：  
+> 1. 生成静态文件 `docker run --rm -v "$PWD:/gitbook" billryan/gitbook:zh-hans gitbook build`
+> 2. ossfs 同步静态文件夹`_book`阿里云oss
