@@ -21,6 +21,10 @@
 * 没有能力直接进行修改和提出意见的同事将其提交给人力资源部
 * 人力资源部 负责维护更新及监督执行
 
+## TODO
+[ ] 财务制度  
+[ ] 霸王餐福利
+
 > #### 技术细节：  
 > 1. 生成静态文件 `docker run --rm -v "$PWD:/gitbook" billryan/gitbook:zh-hans gitbook build`
 > 2. ossfs 同步静态文件夹`_book`阿里云oss
