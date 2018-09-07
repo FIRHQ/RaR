@@ -23,7 +23,6 @@
 
 ## TODO
 [ ] 财务制度  
-[ ] 霸王餐福利
 
 > #### 技术细节：  
 > 1. 生成静态文件 `docker run --rm -v "$PWD:/gitbook" billryan/gitbook:zh-hans gitbook build`
