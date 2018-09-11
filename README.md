@@ -22,8 +22,11 @@
 * 人力资源部 负责维护更新及监督执行
 
 ## TODO
-[ ] 财务制度  
 
-> #### 技术细节：  
+\[ \] 财务制度
+
+> ### 技术细节：
+>
 > 1. 生成静态文件 `docker run --rm -v "$PWD:/gitbook" billryan/gitbook:zh-hans gitbook build`
 > 2. ossfs 同步静态文件夹`_book`阿里云oss
+

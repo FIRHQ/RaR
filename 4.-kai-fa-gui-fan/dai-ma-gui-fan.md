@@ -1,4 +1,4 @@
-# 代码规范
+# 4.1 代码规范
 
 ## 编码原则
 
@@ -21,11 +21,11 @@
 
 ## 分语言的细则
 
-### ruby 
-- 必须 使用 Rubocop 进行代码格式化, 避免日后无意义的格式调整提交
-- 参加 编码风格 [https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
-- 推荐 使用 VisualStudio Code 或者 Atom 等开源 IDE, 方便分享插件
+### ruby
 
+* 必须 使用 Rubocop 进行代码格式化, 避免日后无意义的格式调整提交
+* 参加 编码风格 [https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
+* 推荐 使用 VisualStudio Code 或者 Atom 等开源 IDE, 方便分享插件
 
 > TODO: 参考 [https://github.com/baixing/Law/blob/master/PHP-代码规范.md](https://github.com/baixing/Law/blob/master/PHP-代码规范.md)
 >
