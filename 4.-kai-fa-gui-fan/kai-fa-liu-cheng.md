@@ -39,12 +39,12 @@
 1. 使用 Git 多分支结构
 2. 功能分支: 基于 develop 分支建立，命名规则为 feature/xxx
 3. Hotfix: 线上的 hotfix ，基于 master 分支建立，命名规则为 hotfix/xxx
-4. 功能分支/hotfix 分支在合并到 develop/master 分支时，提交Pull Request请求，同时邀请相关同事进行 Code Review
+4. 功能分支/hotfix 分支在合并到 develop/master 分支时，提交Pull Request请求，同时邀请相关同事进行 Code Review, 且必须经过1人以上Review
 5. 功能分支/hotfix 分支上线后，及时删除，避免分支过多
 
-![&#x5206;&#x652F;&#x7B56;&#x7565; - &#x9891;&#x7E41;&#x96C6;&#x6210;](https://images-cdn.shimo.im/xLXbhoLVmhI8pOnE/Screen%20Shot%202017-04-24%20at%205.05.15%20PM.png)
+![分支策略 - 频繁集成](../.gitbook/assets/branch_ci.png)
 
-![&#x5206;&#x652F;&#x7B56;&#x7565; - &#x5408;&#x5E76;](https://images-cdn.shimo.im/SYLsZryv9xICK65R/Screen%20Shot%202017-04-24%20at%205.11.34%20PM.png!thumbnail)
+![分支策略 - 合并](../.gitbook/assets/branch_merge.png)
 
 ## Code Review
 
